@@ -1,2 +1,2 @@
 # Github finder project
- This project application will find github users and all theitr information
+This is a github finder application. It has a basic UI. You search for the username of a person on github and it will return the users information and latest 5 repos. There are 4 files. An index.html, app.js, github.js and ui.js. I use es7 technology to handle the http requests from the github api. (Uses fetch, async, then, promises etc). The user info is dynamically created and added with the javascript. I used bootstrap fore the styling of the UI.
