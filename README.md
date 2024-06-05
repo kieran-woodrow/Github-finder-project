@@ -54,4 +54,6 @@ Use any browser. I prefer Chrome.
 
 ## 📷 Screenshots
 
-![finder]()
+![search](https://github.com/kieran-woodrow/Github-finder-project/blob/main/Assets/Screenshot%202024-06-05%20at%2009.30.27.png)
+
+![no search](https://github.com/kieran-woodrow/Github-finder-project/blob/main/Assets/Screenshot%202024-06-05%20at%2009.30.35.png)
